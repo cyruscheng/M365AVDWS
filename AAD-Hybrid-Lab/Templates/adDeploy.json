@@ -70,7 +70,8 @@
         "tier": "Regional"
       },
       "properties": {
-        "publicIPAllocationMethod": "Dynamic"
+        "publicIPAllocationMethod": "Static",
+        "publicIPAddressVersion": "IPv4"
       }
     },
     {
