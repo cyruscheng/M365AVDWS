@@ -65,6 +65,10 @@
       "tags": {
         "displayName": "adPubIP"
       },
+      "sku": {
+        "name": "Standard",
+        "tier": "Regional"
+      },
       "properties": {
         "publicIPAllocationMethod": "Dynamic"
       }
